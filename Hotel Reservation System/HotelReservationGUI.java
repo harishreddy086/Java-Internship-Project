@@ -7,7 +7,7 @@ import java.sql.*;
 public class HotelReservationGUI extends JFrame {
     private static final String URL = "jdbc:mysql://localhost:3306/hotel_db";
     private static final String USER = "root";
-    private static final String PASS = "iambatman@hari$h_2oo4"; // Replace with your password
+    private static final String PASS = "password"; // Replace with your password
 
     private Connection conn;
 
